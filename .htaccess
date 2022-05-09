@@ -102,7 +102,7 @@ BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
 </IfModule>
 ##fim Gzip##
 
-**FIREWALL HTACESS##
+
 # 6G:[QUERY STRINGS]
 <IfModule mod_rewrite.c>
 	RewriteEngine On
